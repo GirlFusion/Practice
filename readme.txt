@@ -1,7 +1,5 @@
 This is a line.
-This is another line.
-Is this a line?
-Nah, a space.
+I'm typing something else here
 a ghost...lol..
 yeah yeah, whatever
 girlfusion all the way
